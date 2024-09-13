@@ -1,0 +1,10 @@
+@layer tailwind {
+    @tailwind base;
+    @tailwind components;
+    @tailwind utilities;
+    @tailwind variants;
+  }
+  
+  .foo {
+    bar: "baz";
+  }
